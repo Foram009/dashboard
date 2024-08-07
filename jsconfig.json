@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"],
+      "@blocks/*": ["blocks/*"],
+      "@lib/*": ["src/lib/*"],
+      "@ui/*": ["ui/*"],
+      "@context/*": ["context/*"],
+      "@cutil/*": ["src/components/util/*"],
+      "@utils/*": ["utils/*"],
+      "@layout/*": ["layout/*"],
+      "@queries/*": ["src/lib/queries/*"],
+      "@assets/*": ["assets/*"],
+      "@components/*": ["src/components/*"],
+      "@styles/*": ["styles/*"]
+    }
+  }
+}
